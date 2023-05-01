@@ -4,7 +4,7 @@
 
 /**
  * main - will print text depending on the number
- * Return: Always 0 (success)
+ * Return: Always (success)
  *
  */
 
